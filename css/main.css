@@ -6,3 +6,24 @@ body{
     color: #fff;
     font: 20px sans-serif;
 }
+header{
+    padding: 10px 0px;
+    font-size: 1.5em;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    margin-top: 0;
+}
+a{
+    color: #faa202;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+    float: left;
+    margin: 0 85px;
+}
+.menu{
+    padding: 0px 10px;
+}
