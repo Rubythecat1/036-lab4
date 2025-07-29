@@ -62,5 +62,6 @@ section{
     background-image: url(../images/Neptune.jpg);
 }
 footer{
-    text-align: ;
+    text-align: center;
+    background-color: #388bff;
 }
